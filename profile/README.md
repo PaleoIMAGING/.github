@@ -1,34 +1,11 @@
 <p align="center">
-  <img src="../assets/wg4-logo.png" alt="PaleoIMAGING WG4 Data Formats">
+  <img src="../assets/wg4-logo.png" width="260" alt="PaleoIMAGING WG4 Data Formats">
 </p>
 
-<h1 align="center">PaleoIMAGING — Data Formats</h1>
+# PaleoIMAGING — Data Formats
 
-<p align="center">
-Working Group 4 · Metadata · Data Models · Interoperability · Preservation
-</p>
+GitHub workspace for **PaleoIMAGING Working Group 4 (Data Formats)**.
 
----
+This organization supports collaborative documentation, resources, discussions, and developments related to WG4 activities.
 
-## About WG4
-
-**PaleoIMAGING Working Group 4 (Data Formats)** explores practical approaches for representing, documenting, exchanging, and preserving multidimensional palaeoimaging data.
-
-Current work focuses on:
-
-- metadata and sample identification;
-- data structures and multidimensional data models;
-- HDF5, NetCDF-4 and Zarr;
-- interoperability and provenance;
-- QC/QA concepts;
-- long-term data preservation.
-
-### Current workspace
-
-Our collaborative WG4 material is maintained in the **wg4-community** repository.
-
-> This GitHub organization supports the activities of PaleoIMAGING WG4 and does not replace the broader PaleoIMAGING structure.
-
----
-
-Part of the **PAGES PaleoIMAGING Working Group**.
+> Working material presented here should not be interpreted as final PaleoIMAGING recommendations unless explicitly stated.
