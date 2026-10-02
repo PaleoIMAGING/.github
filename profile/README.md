@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="../assets/wg4-logo.png" width="260" alt="PaleoIMAGING WG4 Data Formats">
+  <img src="../assets/PaleoIMAGING-logo.png" width="260" alt="PaleoIMAGING">
 </p>
 
-# PaleoIMAGING — Data Formats
+# PaleoIMAGING
 
-GitHub workspace for **PaleoIMAGING Working Group 4 (Data Formats)**.
+GitHub workspace for **PaleoIMAGING Community**.
 
-This organization supports collaborative documentation, resources, discussions, and developments related to WG4 activities.
+This organization supports collaborative documentation, resources, discussions, and developments related to group PaleoIMAGING activities.
 
 > Working material presented here should not be interpreted as final PaleoIMAGING recommendations unless explicitly stated.
