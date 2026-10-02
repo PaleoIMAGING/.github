@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/PaleoIMAGING-logo.png" width="260" alt="PaleoIMAGING">
+  <img src="../assets/PaleoIMAGING_logo.png" width="260" alt="PaleoIMAGING">
 </p>
 
 # PaleoIMAGING
