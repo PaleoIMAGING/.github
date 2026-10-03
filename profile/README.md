@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/PaleoIMAGING/.github/main/assets/PaleoIMAGING_logo.png" width="260" alt="PaleoIMAGING logo">
 </p>
 
+# PaleoIMAGING
+
+**PaleoIMAGING is a working group of [PAGES (Past Global Changes)](https://pastglobalchanges.org/).** See the [official group page](https://pastglobalchanges.org/science/current-wg/paleoimaging).
+
 <p align="center">
   <a href="https://pastglobalchanges.org/">
     <img src="https://raw.githubusercontent.com/PaleoIMAGING/.github/main/assets/PAGES_logo.svg" width="120" alt="PAGES (Past Global Changes) logo">
   </a>
 </p>
-
-# PaleoIMAGING
-
-**PaleoIMAGING is a working group of [PAGES (Past Global Changes)](https://pastglobalchanges.org/).** See the [official group page](https://pastglobalchanges.org/science/current-wg/paleoimaging).
 
 PaleoIMAGING is an international community advancing complementary imaging approaches to reconstruct past climate and environmental variability, including micro-XRF, hyperspectral imaging, mass spectrometry imaging, and micro-CT.
 
@@ -33,9 +33,8 @@ Some WG workspaces are private and require authorized access. Membership of this
 
 ## Resources and tutorials
 
-- [**Institutions and techniques map**](https://github.com/PaleoIMAGING/Paleoimaging-techniques-map): a community-wide resource mapping institutions and imaging techniques.
+- [**Institutions and techniques map**](https:/PaleoIMAGING.github.io/Paleoimaging-techniques-map): a community-wide resource mapping institutions and imaging techniques.
 - [**Git and GitHub introduction**](https://github.com/PaleoIMAGING/git-introduction): an introductory tutorial for collaborating with Git and GitHub.
-- [**Practical Git exercises**](https://github.com/PaleoIMAGING/git-demo): hands-on exercises to practise the Git workflow.
 - [**Micro-XRF to NetCDF converter**](https://github.com/PaleoIMAGING/microXRF_to_NetCDF): a tool for converting micro-XRF data to NetCDF.
 - [**PANGAEA dataset survey**](https://github.com/PaleoIMAGING/PANGAEA-Paleoimaging-Deep-Search): a survey of PaleoIMAGING-related datasets in PANGAEA.
 
