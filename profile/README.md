@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/PaleoIMAGING/.github/main/assets/paleoimaging_hero_logo.png" width="260" alt="PaleoIMAGING logo">
 </p>
 
-# PaleoIMAGING
-
 **PaleoIMAGING is a working group of [PAGES (Past Global Changes)](https://pastglobalchanges.org/).** See the [official group page](https://pastglobalchanges.org/science/current-wg/paleoimaging).
 
 <p align="center">
