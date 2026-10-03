@@ -14,6 +14,8 @@ PaleoIMAGING is an international community advancing complementary imaging appro
 
 This GitHub organization supports collaborative documentation, resources, training, tools, and community discussions.
 
+🌐 [Visit the PaleoIMAGING website](https://paleoimaging.github.io)
+
 ## Working groups
 
 | Group | Focus | Repository |
