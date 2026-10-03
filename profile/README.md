@@ -33,7 +33,7 @@ Some WG workspaces are private and require authorized access. Membership of this
 
 ## Resources and tutorials
 
-- [**Institutions and techniques map**](https:/PaleoIMAGING.github.io/Paleoimaging-techniques-map): a community-wide resource mapping institutions and imaging techniques.
+- [**Institutions and techniques map**](https://paleoimaging.github.io/Paleoimaging-techniques-map/): a community-wide resource mapping institutions and imaging techniques.
 - [**Git and GitHub introduction**](https://github.com/PaleoIMAGING/git-introduction): an introductory tutorial for collaborating with Git and GitHub.
 - [**Micro-XRF to NetCDF converter**](https://github.com/PaleoIMAGING/microXRF_to_NetCDF): a tool for converting micro-XRF data to NetCDF.
 - [**PANGAEA dataset survey**](https://github.com/PaleoIMAGING/PANGAEA-Paleoimaging-Deep-Search): a survey of PaleoIMAGING-related datasets in PANGAEA.
