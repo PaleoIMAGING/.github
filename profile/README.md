@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PaleoIMAGING/.github/main/assets/PaleoIMAGING_logo.png" width="260" alt="PaleoIMAGING logo">
+  <img src="https://raw.githubusercontent.com/PaleoIMAGING/.github/main/assets/paleoimaging_hero_logo.png" width="260" alt="PaleoIMAGING logo">
 </p>
 
 # PaleoIMAGING
