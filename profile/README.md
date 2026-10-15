@@ -23,7 +23,7 @@ This GitHub organization supports collaborative documentation, resources, traini
 | WG1 | Standard materials | [wg1-standard-materials](https://github.com/PaleoIMAGING/wg1-standard-materials) |
 | WG2 | Interlab comparison | [wg2-interlab-comparison](https://github.com/PaleoIMAGING/wg2-interlab-comparison) |
 | WG3 | Best practices and workflows | [wg3-best-practices](https://github.com/PaleoIMAGING/wg3-best-practices) |
-| WG4 | Data Formats | [wg4-dataformats](https://github.com/PaleoIMAGING/wg4-dataformats) |
+| WG4 | Data Formats | [wg4-data-formats](https://github.com/PaleoIMAGING/wg4-data-formats) |
 
 Some WG workspaces are private and require authorized access. Membership of this organization does not automatically grant access to them.
 
